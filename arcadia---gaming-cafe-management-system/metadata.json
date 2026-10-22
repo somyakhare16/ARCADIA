@@ -1,0 +1,6 @@
+{
+  "name": "ARCADIA - Gaming Cafe Management System",
+  "description": "Premier gaming lounge & esports arena featuring tournament-grade battle stations, flagship AAA titles, flexible PC reservations, VIP memberships, and real-time station billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
